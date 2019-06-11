@@ -1,1 +1,1 @@
-ECHO is on.
+Some text to be in this file
